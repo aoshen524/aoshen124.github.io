@@ -12,7 +12,7 @@ title                    : "Hangliang Ding"
 title_separator          : "-"
 name                     : &name "Hangliang Ding "
 description              : &description "a third year undergraduate student from Tsinghua University"
-url                      : https://foreverpiano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aoshen124.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "foreverpiano/foreverpiano.github.io"
 
